@@ -1,7 +1,7 @@
 <h1 align="center">I'm MMDDKK6500</h1>
 <h3 align="center">I don't know how to code, i just ctrl+c and ctrl+v</h3>
 
-- I completed the Start, game development course at [Saga](https://www.saga.art.br/start/)
+- I completed the Start game development course from [Saga](https://www.saga.art.br/start/)
 
 - I'm making the Gamejolt API for C# called [SharpJolt](https://github.com/MMDDKK6500/SharpJolt)
 
