@@ -3,7 +3,7 @@
 
 - I completed the Start game development course from [Saga](https://www.saga.com.br/)
 
-- Currently learning: **2D Animation with Adobe Animate**
+- Currently learning: **2D Game Development with Construct 2**
 
 - Primary developer on the .NET Gamejolt API called [SharpJolt](https://github.com/MMDDKK6500/SharpJolt)
 
