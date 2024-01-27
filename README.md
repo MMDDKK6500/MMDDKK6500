@@ -7,7 +7,7 @@
 
 - Primary developer on the .NET Gamejolt API called [SharpJolt](https://github.com/MMDDKK6500/SharpJolt)
 
-- My website: [https://mmddkk.me](https://mmddkk.me)
+- My website: [https://mmddkk.me](https://mmddkk.tech)
 
 - Knows everything about **Node.js**
 
