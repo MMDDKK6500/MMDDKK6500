@@ -11,7 +11,7 @@
 
 - Knows everything about **Node.js**
 
-- My contact email: **woobiewhy@gmail.com**
+- My contact email: **joao.dnw@mmddkk.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
