@@ -5,9 +5,9 @@
 
 - Currently learning: **2D Game Development with Construct 2**
 
-- Primary developer on the .NET Gamejolt API called [SharpJolt](https://github.com/MMDDKK6500/SharpJolt)
+- Primary developer on the .NET Gamejolt API called [SharpJolt](https://github.com/MMDDKK6500/SharpJolt) (Which unfortunately is obsolete :c)
 
-- My website: [https://mmddkk.me](https://mmddkk.tech)
+- My website: [https://mmddkk.tech](https://mmddkk.tech)
 
 - Knows everything about **Node.js**
 
