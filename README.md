@@ -3,15 +3,17 @@
 
 - I completed the Start game development course from [Saga](https://www.saga.com.br/)
 
-- Currently learning: **2D Game Development with Construct 2**
+- Currently learning: Information systems at Campus Senac Santo Amaro - first semester
+
+- Knows **2D Game Development with Construct 2**
 
 - Primary developer on the .NET Gamejolt API called [SharpJolt](https://github.com/MMDDKK6500/SharpJolt) (Which unfortunately is obsolete :c)
 
-- My website: [https://mmddkk.tech](https://mmddkk.tech)
+- My website: [https://mmddkk.dev.br](https://mmddkk.dev.br)
 
 - Knows everything about **Node.js**
 
-- My contact email: **joao.dnw@mmddkk.tech**
+- My contact email: **joao.dnw@mmddkk.dev.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
