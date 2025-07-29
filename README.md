@@ -7,8 +7,6 @@
 
 - Knows **2D Game Development with Construct 2**
 
-- Primary developer on the .NET Gamejolt API called [SharpJolt](https://github.com/MMDDKK6500/SharpJolt) (Which unfortunately is obsolete :c)
-
 - My website: [https://mmddkk.dev.br](https://mmddkk.dev.br)
 
 - Knows everything about **Node.js**
