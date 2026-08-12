@@ -10,4 +10,4 @@
 
 - My contact email: joao.dnw@icloud.com
 
-![Stats](./profile/stats.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MMDDKK6500&custom_title=How%20bad%20I%20am%20at%20coding&show_icons=true&include_all_commits=true&theme=slateorange)](https://github-stats-extended.vercel.app/api?username=MMDDKK6500&custom_title=How%20bad%20I%20am%20at%20coding&show_icons=true&include_all_commits=true&theme=slateorange)
